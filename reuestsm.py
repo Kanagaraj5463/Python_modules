@@ -1,6 +1,6 @@
 import requests
    
-# Making a GET request
+#new  Making a GET request
 r = requests.get('https://api.github.com/users/naveenkrnl')
   
 # check status code for response received
